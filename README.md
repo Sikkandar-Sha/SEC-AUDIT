@@ -5,7 +5,7 @@ SEC-AUDIT
 
 This script checks for various security settings / controls / policies applied on the host machine.
 The script also tells what the recommended value of a setting / control / policy should be according to known security standards.
-This script comes in handy in situations where running automated configuration audit tools like Nipper or Nessus (with configuration audit policy configured) are not allowed.
+This script comes in handy in situations where running automated configuration audit tools like Nipper or Nessus (with configuration audit policy configured) is not allowed.
 
 To see a sample output of what the script will generate, see the sample_output.txt file.
 
